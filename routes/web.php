@@ -46,7 +46,6 @@ Route::get('/google-callback', function () {
         }
         dd($user);
         //return redirect('/dashboard');
-    // $user->token
 });
 
 
